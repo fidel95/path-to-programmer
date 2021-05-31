@@ -1,0 +1,20 @@
+{
+  "name": "path-to-programmer",
+  "version": "1.0.0",
+  "description": "I will make it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidel95/path-to-programmer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidel95/path-to-programmer/issues"
+  },
+  "homepage": "https://github.com/fidel95/path-to-programmer#readme"
+}
