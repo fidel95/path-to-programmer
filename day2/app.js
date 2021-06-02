@@ -25,4 +25,4 @@ let count = cosas.forEach((element) => {
 count;
 
 
-console.log(Array.isArray(cosas));
+//console.log(Array.isArray(cosas));
