@@ -5,3 +5,5 @@ I will make it
 ### working on classes
 
 ### working on vcreating a clone of taringa
+
+### deployed wp to DigitalOcean
