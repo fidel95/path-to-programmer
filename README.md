@@ -7,3 +7,5 @@ I will make it
 ### working on vcreating a clone of taringa
 
 ### deployed wp to DigitalOcean
+
+### es6 classes
