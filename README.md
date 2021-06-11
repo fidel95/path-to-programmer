@@ -9,3 +9,5 @@ I will make it
 ### deployed wp to DigitalOcean
 
 ### es6 classes
+
+### classes inheritance
