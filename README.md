@@ -36,3 +36,5 @@ Cancel changes
 ### back at it jan 4 2022
 
 ### remix portfolio
+
+### almost time to deploy new blog version
