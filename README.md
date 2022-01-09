@@ -38,3 +38,5 @@ Cancel changes
 ### remix portfolio
 
 ### almost time to deploy new blog version
+
+### blog almost ready
