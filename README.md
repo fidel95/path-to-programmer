@@ -57,3 +57,5 @@ Cancel changes
 ### last update on this repo, i will create one where my goal will be to become a programmer by the end of the year and find a job in my home country or here in the USA if DACA or something better comes my way
 
 ### tomoroow
+
+### setting up everything
