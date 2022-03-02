@@ -59,3 +59,5 @@ Cancel changes
 ### tomoroow
 
 ### setting up everything
+
+### day 1
